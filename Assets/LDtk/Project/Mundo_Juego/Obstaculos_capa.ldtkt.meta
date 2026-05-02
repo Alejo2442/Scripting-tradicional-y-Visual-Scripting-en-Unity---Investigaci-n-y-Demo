@@ -1,0 +1,1501 @@
+fileFormatVersion: 2
+guid: 865bc7c2d3fa3584b9c0cd92c8748f57
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Obstaculos_capa_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 119
+      width: 16
+      height: 16
+    spriteID: e24a9b79da57fd8409ba2e790d3ad31d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 119
+      width: 16
+      height: 16
+    spriteID: ae1182d1fb4121649826b60149a197c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 119
+      width: 16
+      height: 16
+    spriteID: 866ac4be950ee7149891a8627cfe5d4c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 119
+      width: 16
+      height: 16
+    spriteID: ecee00b648cd84042b15627c82abf77d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 119
+      width: 16
+      height: 16
+    spriteID: 5e620645b29bc874f9d90ccd0bbf83d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 119
+      width: 16
+      height: 16
+    spriteID: 47420977b59f96a4fb271aeebe03e50c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 119
+      width: 16
+      height: 16
+    spriteID: afa0f7a6e09c5694f85666a05042ae67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 119
+      width: 16
+      height: 16
+    spriteID: 6f8c75dcab95e544f82a3928017c67d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 119
+      width: 16
+      height: 16
+    spriteID: eb11f0b120629f54aa9ec23cd5848dfb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 119
+      width: 16
+      height: 16
+    spriteID: 9f053e2be4087ff49a4ae47e0918edd8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 119
+      width: 16
+      height: 16
+    spriteID: 040aae30ac912d4468423796e1784f32
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 103
+      width: 16
+      height: 16
+    spriteID: c8dc0c7438b1aa6408196eac890e080d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 103
+      width: 16
+      height: 16
+    spriteID: b6a2291d3f1c55e458255f3721f3fb46
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 103
+      width: 16
+      height: 16
+    spriteID: a980ff36a5ee7ed4088da44136b89725
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 103
+      width: 16
+      height: 16
+    spriteID: 2bf9ad716896cec4a87cff9040f88773
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 103
+      width: 16
+      height: 16
+    spriteID: 522f56e5ca4bec243b9502cbd3dd0a5b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 103
+      width: 16
+      height: 16
+    spriteID: 5c9960a202d196843ba9e3fd041b133f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 103
+      width: 16
+      height: 16
+    spriteID: e37dd9a15a3bfa749aa355924a32793e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 103
+      width: 16
+      height: 16
+    spriteID: 513c1864d5bd8a24489f4f4b69a5788d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 103
+      width: 16
+      height: 16
+    spriteID: 4b388390003609a49afed645edcb2865
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 103
+      width: 16
+      height: 16
+    spriteID: 39fa076c5db76804fb02b372d6310e2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 103
+      width: 16
+      height: 16
+    spriteID: 31414fb45ebf7a44fa398dd75fc366fc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 87
+      width: 16
+      height: 16
+    spriteID: 32a531eca4ecb4840bbdde43fa45e9a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 87
+      width: 16
+      height: 16
+    spriteID: 507e5ff67bf7efb44aeda0fdf174fd05
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 87
+      width: 16
+      height: 16
+    spriteID: 717f3b276be21244b9f507fe698d406b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 87
+      width: 16
+      height: 16
+    spriteID: a7997d304d75d714184187cdadd0b54c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 87
+      width: 16
+      height: 16
+    spriteID: b1fbcb882db4e4545a809aef38ad6f08
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 87
+      width: 16
+      height: 16
+    spriteID: 76be7f4e472055e42a86bad7cadb1418
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 87
+      width: 16
+      height: 16
+    spriteID: 64b2a8c9ae3c7d946959d85395bc4bea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 87
+      width: 16
+      height: 16
+    spriteID: 354cb136434b31746ae3b107b222a81a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 87
+      width: 16
+      height: 16
+    spriteID: 3f9361b6a532f374db5855af698ed771
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 87
+      width: 16
+      height: 16
+    spriteID: c4a94b65efef0ce4085ae1ab96b0e1bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 87
+      width: 16
+      height: 16
+    spriteID: 27a16a3b6dfe8eb4986e695ba5a07ab6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 71
+      width: 16
+      height: 16
+    spriteID: 03c0872239e2a89429b2b8028df8a80b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 71
+      width: 16
+      height: 16
+    spriteID: a5041ca2cc7c7b043a30c3b95449fc72
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 71
+      width: 16
+      height: 16
+    spriteID: fd78a6f935e4ff844b591887b7faee87
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 71
+      width: 16
+      height: 16
+    spriteID: 14021e75f8e45964280bf879c520a9a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 71
+      width: 16
+      height: 16
+    spriteID: 6468b3ac32557f946bbb8538e49f818b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 71
+      width: 16
+      height: 16
+    spriteID: 5323654005562544fb17f726984f03f1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 71
+      width: 16
+      height: 16
+    spriteID: 6aaa3b019c4afa047a07b28ed0079d11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 71
+      width: 16
+      height: 16
+    spriteID: 18272d5b34d82d6459ad0d187cc57c49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 71
+      width: 16
+      height: 16
+    spriteID: beac85b2f8ceff144951c30c45309022
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 71
+      width: 16
+      height: 16
+    spriteID: d06b26f799c20484199cf7959bfc20a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 71
+      width: 16
+      height: 16
+    spriteID: 7bd4963539d2b9e469b959cfe4a74d70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 55
+      width: 16
+      height: 16
+    spriteID: 6f9ca43015cff8140bfc94693cce520f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 55
+      width: 16
+      height: 16
+    spriteID: ff809641773438247acb59696a690a52
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 55
+      width: 16
+      height: 16
+    spriteID: 9a08bb77efad00e45beec02826473812
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 55
+      width: 16
+      height: 16
+    spriteID: 311bef21df4fd91438b9e7aea1b5cfb5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 55
+      width: 16
+      height: 16
+    spriteID: 84b31bc0d1369124fa1b51acb3a33b1e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 55
+      width: 16
+      height: 16
+    spriteID: 1414e7a64de27df479689481f305f90b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 55
+      width: 16
+      height: 16
+    spriteID: 7cce69e92e381ac49951f20ac5a211ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 55
+      width: 16
+      height: 16
+    spriteID: de36db8c0aecfe045b0fb25e8d3c0e96
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 55
+      width: 16
+      height: 16
+    spriteID: 571a51d261f4a5242a1c9d236af3e5af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 55
+      width: 16
+      height: 16
+    spriteID: 1401bb870ff95c3468bdf37117737aa3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 55
+      width: 16
+      height: 16
+    spriteID: dee5e1b9221e58145b7111d92cfffeaf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 39
+      width: 16
+      height: 16
+    spriteID: b04c930f8ba4d334c9c66ebcd943dd3e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 39
+      width: 16
+      height: 16
+    spriteID: 7ccfb080e5529934395944c7e8f1d87e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 39
+      width: 16
+      height: 16
+    spriteID: 373119172a79fb5459449e0751d74d9b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 39
+      width: 16
+      height: 16
+    spriteID: 7e47750438657e24fbc838dd53d547bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 39
+      width: 16
+      height: 16
+    spriteID: 0d1b7cf5405e0da4aa16183c4c04ece7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 39
+      width: 16
+      height: 16
+    spriteID: d240afcb706fb5441bfe7a81be5feaea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 39
+      width: 16
+      height: 16
+    spriteID: 0fbc75931769a8644a0171751303d898
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 39
+      width: 16
+      height: 16
+    spriteID: 6555875f689e7174fac3e65614b36f68
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 39
+      width: 16
+      height: 16
+    spriteID: 309f321ed1e30c74a87a12b8f4f89ebd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 39
+      width: 16
+      height: 16
+    spriteID: d9fc542513b4deb49988d155776c9bcb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 39
+      width: 16
+      height: 16
+    spriteID: 572436e5f3a38da4db4a96808f31f1b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 23
+      width: 16
+      height: 16
+    spriteID: 40bda4deedbc21e4fb8d099d9315fe97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 23
+      width: 16
+      height: 16
+    spriteID: 3e77477a5b208e442acb35ac4ecb98b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 23
+      width: 16
+      height: 16
+    spriteID: 645ee29c063cde44f9e439fae2dc7e2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 23
+      width: 16
+      height: 16
+    spriteID: 0878d0755513e3142b1dd6d44a9e7a23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 23
+      width: 16
+      height: 16
+    spriteID: cb952af802f465b439ee04570d3db464
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 23
+      width: 16
+      height: 16
+    spriteID: f193327fd0dc70348a9e496aae57b210
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 23
+      width: 16
+      height: 16
+    spriteID: e9cdba92e9f5b2c4f967175de998710b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 23
+      width: 16
+      height: 16
+    spriteID: ee3032abd13f70b44806341856f1113f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 23
+      width: 16
+      height: 16
+    spriteID: a2f66951728f4994397b5751cf1f006e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 23
+      width: 16
+      height: 16
+    spriteID: 7f19cc5facd8e77428368f588252e04f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 23
+      width: 16
+      height: 16
+    spriteID: 1a4b5f0bbe023c54a88a2c2858a9f2c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 7
+      width: 16
+      height: 16
+    spriteID: 771ee779dbe78fd44b5dc5c6b634b669
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 7
+      width: 16
+      height: 16
+    spriteID: 20990324eb4a5374d9e5500c9bc592cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 7
+      width: 16
+      height: 16
+    spriteID: 4169b3c616ecdb34fb5467afb684ffb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 7
+      width: 16
+      height: 16
+    spriteID: 0a1c55ede1b2e8b42be71619822f23ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 7
+      width: 16
+      height: 16
+    spriteID: 270dbab4468212b4397ba3739c019360
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 7
+      width: 16
+      height: 16
+    spriteID: 006f432cc6604204790614ace7eb48f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 7
+      width: 16
+      height: 16
+    spriteID: 7f5254760d08c344aa2d84b3fa8a777e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 7
+      width: 16
+      height: 16
+    spriteID: 4d92b864977d30e4f8f80193997a51b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 7
+      width: 16
+      height: 16
+    spriteID: cb93ffae4bdbca246a706611780a30e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 7
+      width: 16
+      height: 16
+    spriteID: dc471e7980d9ed04f9552f3f57a7c3cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 7
+      width: 16
+      height: 16
+    spriteID: e7bf7ed84b621394fbc421b8765a805e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 7
+    spriteID: f755cca7ec10d0945a1aac33ee347e3d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 7
+    spriteID: e3e932ab8ea284b40ba3f691b23f374c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 7
+    spriteID: 116408d83b492b341af2f5812b99f819
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 7
+    spriteID: 4657d7bb70bf0624c9d59d22678033e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 7
+    spriteID: 3f35ab8ac07114345810350e75b64c3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 7
+    spriteID: 4c098a003a305cc44b0818f0c5049ed9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 7
+    spriteID: 7611b4e9c6805784ab371aa48ae305d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 7
+    spriteID: e8c94b024ca5a0641a09e1b908123442
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 7
+    spriteID: 584a12ca7c8328042a59cc7af34dda65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 7
+    spriteID: fcec0e5881c4fe940b4236a4a556f169
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Obstaculos_capa_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 7
+    spriteID: 1c6db3277740d3345a4b6484e20f87b8
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}
